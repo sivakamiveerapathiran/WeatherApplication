@@ -10,10 +10,10 @@ Shows current temperature, humidity, wind speed, and visibility.
 Displays hourly temperature trends.
 Simple clickable buttons for navigation.
 
-Files in the Project
+Files:
 Home.html → Main page with links to weather sections.
 currentweather.html → Displays current weather.
 Hourlyweatherforecast.html → Shows hourly forecast.
 weatherapp.js → Fetches current weather data.
 forecaststyle.js → Fetches hourly weather data.
-CSS Files (not included) → Used for styling.
+CSS Files → Used for styling.
